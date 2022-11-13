@@ -1,5 +1,7 @@
 # FontClassification
 
+Date; 17.09.2020
+
 Dataset: 10 fonts x 1300 images (word in the specific font)
 - Arial, Bookman Old Style, Calibri, Century, Comic Sans MS, Dotum, Georgia, Gost, Tahoma, Times New Roman
 
